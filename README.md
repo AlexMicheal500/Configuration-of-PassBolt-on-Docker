@@ -5,4 +5,5 @@ Note: In your docker compose file, make sure you input your own https url
 ![image](https://user-images.githubusercontent.com/99332618/213583353-22e670be-1e22-4726-9935-435d500ab99e.png)
 ![image](https://user-images.githubusercontent.com/99332618/213583435-affadf4c-af19-47ac-b688-8bb1dadbca5e.png)
 ![image](https://user-images.githubusercontent.com/99332618/213739118-087a9a90-5fd6-4480-97bd-ea833cbaa123.png)
+#NOTE: In the configuration above, change TLS from NO to YES before it can work.
 
